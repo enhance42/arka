@@ -1,7 +1,11 @@
 Training details  
 
-http://bit.ly/LearnInDepth
+https://bit.ly/LearnInDepth
 
-http://bit.ly/CSCrashCourse
+https://bit.ly/CSCrashCourse
+
+https://launchschool.com/books
+
+
 
 
