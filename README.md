@@ -1,4 +1,7 @@
 Training details  
 
-https://www.coursera.org/learn/learning-how-to-learn
+http://bit.ly/LearnInDepth
+
+http://bit.ly/CSCrashCourse
+
 
