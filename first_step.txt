@@ -1,0 +1,43 @@
+These are the tasks to take the first step to become capable in software development.
+
+Write algorithms to learn principles of writing algorithms.
+
+Implement the algorithms in 5 different languages.
+// make a note of all the compilation errors and the code that caused it.
+// get the programs reviewed, the first program, 
+// next get the 2nd and 3rd programs reviewed,
+// next the remaining programs.
+
+// Write code to test the algorithm, that you are implementing.
+
+Fundamentals of Computing.
+http://github.com/rohinibarla/FOC/blob/master/Lecture%201.pdf
+
+Education system:
+http://shikshantar.org/initiatives/walkouts-network/parrots-training-retold
+
+Complete these two exercise books
+Book#1: https://launchschool.com/books/command_line
+Book#2: https://launchschool.com/books/git
+
+Create an ubuntu machine on Codenvy.io and 
+Write the following programs in 5 languages and maintain them in a GitHub private repository.
+* sum of 2 numbers
+* given sum and product of 2 whole numbers, find the two numbers. 
+* nth prime
+
+Implement the programs related to
+Files, structures, classes, header files and libraries.
+Collections in Swift: Arrays, Sets, Dictionaries.
+
+Read and Write to JSON and XML files.
+* Understand JSON file format
+* Create JSON files and verify with JSON validator
+* Same with XML files
+* Program: Given book id, get the details of the book.
+
+Commit these files and programs to the same repository.
+
+
+Create a blog using postach.io.
+* Keep writing regularly a blog post.
